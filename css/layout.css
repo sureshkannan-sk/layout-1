@@ -1,0 +1,111 @@
+.wrapper
+{
+width:80%;
+margin:auto;
+}
+.bootstrap
+{
+background-color:black;
+height:55px;
+}
+.bootstrap .bootstrap-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.bootstrap .bootstrap-fc .start
+{
+	width:150px;
+	height:55px;
+	background-color:white;
+}
+.bootstrap .bootstrap-fc .about
+{
+	width:200px;
+	height:55px;
+	background-color:white;
+}
+.welcome
+{
+background-color: orange;
+height:360px;
+}
+.welcome .welcome-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.welcome .welcome-fc .box-a
+{
+	width:660px;
+	height:250px;
+	background-color:white;
+	margin-top:50px;
+}
+.about{
+background-color: white;
+height:450px;
+}
+.about .about-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.about .about-fc .box-b
+{
+	width:660px;
+	height:300px;
+	background-color:lightgreen;
+	margin-top:70px;
+}
+.services
+{
+background-color: lightgrey;
+height:440px;
+}
+.services .services-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.services .services-fc .box-c
+{
+	width:660px;
+	height:250px;
+	background-color:lightgreen;
+	margin-top:50px;
+}
+.contact
+{
+background-color: white;
+height:440px;
+}
+.contact .contact-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.contact .contact-fc .box-d
+{
+	width:660px;
+	height:250px;
+	background-color:lightgreen;
+	margin-top:70px;
+}
+.website
+{
+background-color: black;
+height:120px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .box-e
+{
+	width:300px;
+	height:90px;
+	background-color:white;
+	margin-top:15px;
+}
